@@ -25,6 +25,7 @@ body {
 	width: 100vw;
 	height: 100vh;
 
+	background: var(--bgBlack50);
 	font-size: 1.6rem;
 }
 .wrapper {
@@ -36,7 +37,6 @@ body {
 	-webkit-box-direction: normal;
 	-ms-flex-direction: column;
 	flex-direction: column;
-	background: var(--bgBlack50);
 }
 .footer,
 .header,
