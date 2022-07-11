@@ -1998,6 +1998,13 @@ body._dark {
 	margin-top: 5rem;
 	position: relative;
 }
+.contact .form .form__title {
+	margin-bottom: 3rem;
+
+	color: var(--black600FontColor);
+	font-size: 2rem;
+	text-align: center;
+}
 .contact .form #formMessage._sending .form__loader {
 	visibility: visible;
 	opacity: 1;
